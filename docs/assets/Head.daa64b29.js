@@ -1,1 +1,0 @@
-import{c as r,r as o}from"./vendor.b6e438e0.js";var a={},u=r&&r.__importDefault||function(e){return e&&e.__esModule?e:{default:e}};Object.defineProperty(a,"__esModule",{value:!0});var l=u(o.exports),d=function(e){var t=e.children;return l.default.createPortal(t,document.head)},_=a.default=d;export{_};
