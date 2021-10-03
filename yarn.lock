@@ -274,10 +274,10 @@
   resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-4.5.0.tgz#b99e49fa178e4086250fb3df2ed6a7366c9a0cb5"
   integrity sha512-2efK8Ru0LkuOYrEpiHPlV02YkTdIKGbezlxVNeA8/3c+tNt7P2aQPuiYYkVy7N4GA5LWSUVcLL/91MpCIjinOw==
 
-"@innatical/inn.ts@^1.0.9":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@innatical/inn.ts/-/inn.ts-1.0.9.tgz#5e01bbca6d4b27e42d2fae4a7dc547b0c3b16ef0"
-  integrity sha512-47VzThFAgcfmhuOcKD88qV4G9IRyvl6AiMjcr70dtFghvN1oIwrGLYcZz6sHTSvu07ZIHo+SqUgNmndlhJMCRw==
+"@innatical/inn.ts@^1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@innatical/inn.ts/-/inn.ts-1.0.10.tgz#061273d4167b68b835fec4994a0018293d90c4a5"
+  integrity sha512-yni88kjgr2Z8nY+NrWetEqXq19RxJosLNyrejW9Bwn1YJzK7jFTr+22BBDP1aQo3/RmWAzuIeqrrrrjJ8ZR2SA==
   dependencies:
     "@nodelib/fs.walk" "^1.2.8"
 
@@ -400,10 +400,10 @@
     "@types/history" "*"
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^17.0.0":
-  version "17.0.26"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.26.tgz#960ea4b3518cc154ed7df3b35656c508df653331"
-  integrity sha512-MXxuXrH2xOcv5cp/su4oz69dNQnSA90JjFw5HBd5wifw6Ihi94j7dRJm7qNsB30tnruXSCPc9qmlhGop4nh9Hw==
+"@types/react@*", "@types/react@^17.0.27":
+  version "17.0.27"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.27.tgz#6498ed9b3ad117e818deb5525fa1946c09f2e0e6"
+  integrity sha512-zgiJwtsggVGtr53MndV7jfiUESTqrbxOcBvwfe6KS/9bzaVPCTDieTWnFNecVNx6EAaapg5xsLLWFfHHR437AA==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
