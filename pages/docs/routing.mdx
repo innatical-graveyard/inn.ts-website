@@ -1,0 +1,22 @@
+import Layout from "../../components/Layout";
+
+<Layout>
+# Routing
+
+Inn.ts uses `react-router-dom` for routing. This means that you can use all of your usual React Router hooks like `useLocation` or `useHistory`. For more information on React Router, consult its [documentation](https://reactrouter.com).
+
+## File-system routing
+
+By default Inn.ts will automatically generate routes for all of the `.tsx`, `.jsx`, and `.mdx` files within the `pages` folder. For example, if you have a React component in a file named `about.tsx` this route would be accessable at `/about`. Nested routes are also supported, so if you had a `info.tsx` file within the sub-folder `contact` the route path would be `/contact/info`.
+
+_**Note:** You must export a React component as the default export in page files._
+
+## Dynamic Routes
+
+Inn.ts also supports dynamic routes using route params. You can create a dynamic route by simpily creating a page file that starts with a "`:`", for example `/:id.tsx`. You can access route params using the [useParams](https://reactrouter.com/web/api/Hooks/useparams) hook from React Router.
+
+## \_app.tsx
+
+The `_app.tsx` file is the heart of your React app, it contains the entrypoint for React to render your entire component tree. If you are using the offical template, it also imports and loads the filesystem routes.
+
+</Layout>

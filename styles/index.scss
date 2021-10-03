@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "@fontsource/inter/variable.css";
+
+body {
+  @apply bg-primary dark:bg-primary-dark text-primary-dark dark:text-primary;
+  font-family: InterVariable, sans-serif;
+}
