@@ -274,10 +274,10 @@
   resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-4.5.0.tgz#b99e49fa178e4086250fb3df2ed6a7366c9a0cb5"
   integrity sha512-2efK8Ru0LkuOYrEpiHPlV02YkTdIKGbezlxVNeA8/3c+tNt7P2aQPuiYYkVy7N4GA5LWSUVcLL/91MpCIjinOw==
 
-"@innatical/inn.ts@^1.0.10":
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/@innatical/inn.ts/-/inn.ts-1.0.10.tgz#061273d4167b68b835fec4994a0018293d90c4a5"
-  integrity sha512-yni88kjgr2Z8nY+NrWetEqXq19RxJosLNyrejW9Bwn1YJzK7jFTr+22BBDP1aQo3/RmWAzuIeqrrrrjJ8ZR2SA==
+"@innatical/inn.ts@^1.0.11":
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@innatical/inn.ts/-/inn.ts-1.0.11.tgz#751ccc6426d8372cc28c209c72e15e5b0a84c3fe"
+  integrity sha512-xevVhGyGi+ZBj9PmC3imM8/i2ifAKXhQux5x9ubfrnKzh0XlpmpWmV5/+tB8HHDs3wAZt/MbYa+nmMpMC8tQqg==
   dependencies:
     "@nodelib/fs.walk" "^1.2.8"
 
