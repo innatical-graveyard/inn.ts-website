@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "start", "tsc && vite preview"
   },
   "dependencies": {
     "@fontsource/fira-code": "^4.5.1",
