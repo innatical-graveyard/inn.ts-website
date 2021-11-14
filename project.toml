@@ -1,2 +1,4 @@
-[[build.env]]
-BP_NODE_PROJECT_PATH="build"
+[ build ]
+  [[ build.env ]]
+    name="BP_NODE_PROJECT_PATH"
+    value="build"
